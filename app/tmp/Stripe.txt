@@ -1,0 +1,135 @@
+
+Message---->No such customer: Y
+Response---->No such customer: Y
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->No such customer: Y
+Response---->No such customer: Y
+
+Message---->No such customer: Y
+Response---->No such customer: Y
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->No such customer: Y
+Response---->No such customer: Y
+
+Message---->No such customer: Y
+Response---->No such customer: Y
+
+Message---->No such customer: Y
+Response---->No such customer: Y
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Your card has expired.
+Response---->Your card has expired.
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->No such customer: N
+Response---->No such customer: N
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card
+
+Message---->Cannot charge a customer that has no active card
+Response---->Cannot charge a customer that has no active card

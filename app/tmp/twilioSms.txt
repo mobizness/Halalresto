@@ -1,0 +1,2205 @@
+
+Message---->komal booking a table. Booking id #Book0001
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book0001.  Regards Comeneat.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Thank you for registering with Halal.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/9. Thanks Halal
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Thanks for using Halal service. Your order #ORD004 has been placed . Track your order at http://halal-resto.fr.  Regards Halal.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD004 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-09-23 at 08:15 PM. Thanks Halal
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal service. Your order #ORD005 has been placed . Track your order at http://halal-resto.fr.  Regards Halal.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD005 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-09-23 at 08:35 PM. Thanks Halal
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0002
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0003
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0004
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0005
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0006
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0007
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0008
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book0009
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book00010
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->xx booking a table. Booking id #Book00011
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal service. Your order #ORD006 has been placed . Track your order at http://halal-resto.fr.  Regards Halal.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD006 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-09-28 at 12:35 PM. Thanks Halal
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/11. Thanks Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/12. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/13. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD007 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD007 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-09-29 at 05:55 PM. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD008 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD008 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-09-29 at 06:00 PM. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD008succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-09-29 at 06:00 PM. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/14. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/15. Thanks Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/16. Thanks Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password tz6YVzW to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password 8tNQaL4 to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->komal booking a table. Booking id #Book00012
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00012.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Your order #ORD005 has been cancelled and Refund your amount € 162.00 Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->This order #ORD005 has been cancelled and Refund amount € 162.00 Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/17. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->We've received a request to change your password. Use this password Ag0k7g5 to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/19. Thanks Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD009 has been placed .
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD009 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-14 at 11:30 AM. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD009succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-14 at 11:30 AM. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD007 succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-09-29 at 05:55 PM. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0010 has been placed .
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0010 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-18 at 15:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/23. Thanks Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password 2xDrOdy to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password bgS0liq to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->komal booking a table. Booking id #Book00013
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00013.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->koam booking a table. Booking id #Book00014
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00014.  Regards Halal Resto.
+Response---->The 'To' number +338754564574 is not a valid phone number.
+
+Message---->koaml booking a table. Booking id #Book00015
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00015.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0011 has been placed .
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0011 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-19 at 08:40. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/24. Thanks Halal Resto
+Response---->The 'To' number +33445454554554 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/25. Thanks Halal Resto
+Response---->The 'To' number +334546874646 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0012 has been placed .
+Response---->The 'To' number +33445454554554 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0012 from saravanan j,Paris, Salles, France. Delivery due on 2016-10-19 at 16:50. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0013 has been placed .
+Response---->The 'To' number +33445454554554 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0013 from saravanan j,Paris, Salles, France. Delivery due on 2016-10-19 at 16:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0014 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0014 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-20 at 14:05. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0015 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0015 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-20 at 14:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0016 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0016 from Manikandan M N. Collection due on 2016-10-20 at 14:41. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0017 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0017 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-21 at 16:00. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0018 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0018 from HALAL RESTO,Paris, Salles, France. Delivery due on 2016-10-23 at 22:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0018 succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-23 at 22:15. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0019 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0019 from Akshita Paul,Paris, Salles, France. Delivery due on 2016-10-24 at 07:30. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0020 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0020 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-24 at 10:10. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0021 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +337689768976 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0022 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +337689768976 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0022succesfully accepted by Dice. Your order will be delivered by 2016-10-24 at 12:00. Thanks Halal Resto
+Response---->The 'To' number +337689768976 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Anand  Choudhary,</p>
+                                      <p>La commande #ORD0021 a été annulée, nous procédons à votre  remboursement pour un montant de € 758.44</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +337689768976 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0023 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0023 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-24 at 12:43. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0024 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0024 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-24 at 14:50. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/28. Thanks Halal Resto
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Riveros booking a table. Booking id #Book00016
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00016.  Regards Halal Resto.
+Response---->The 'To' number +337894561233 is not a valid phone number.
+
+Message---->Your booked table has been approved. booking id #Book00016.  Regards Halal Resto.
+Response---->The 'To' number +337894561233 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0025 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0026 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0026 from Akshita Paul,Paris, Salles, France. Delivery due on 2016-10-25 at 08:50. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0027 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0028 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0029 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0030 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0030 from Mani Megalai. Collection due on 2016-10-25 at 09:05. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher anand anand,</p>
+                                      <p>La commande #ORD0025 a été annulée, nous procédons à votre  remboursement pour un montant de € 209.52</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password IkJvIgB to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +337689768976 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password w5aDfNf to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0029 succesfully accepted by Dice. Your order will be delivered by 2016-10-25 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0024succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-24 at 14:50. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0023succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-24 at 12:43. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Sruthi,pick up COD order #ORD0023 from Manikandan M N,,,,,. Delivery due on 2016-10-24 at . Thanks Halal Resto
+Response---->The 'To' number +331234567890 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0032 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0032 from Ram Raghav,Paris, Salles, France. Delivery due on 2016-10-27 at 13:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->komal booking a table. Booking id #Book00017
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00017.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0018succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-23 at 22:15. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD007succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-09-29 at 05:55 PM. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0018succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-23 at 22:15. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Raguvarana,pick up PAID order #ORD0018 from HALAL RESTO,,,,,. Delivery due on 2016-10-23 at . Thanks Halal Resto
+Response---->The 'To' number +339876543210 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0033 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0033 from Ram Raghav,Paris, Salles, France. Delivery due on 2016-10-27 at 14:37. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0033succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-27 at 14:37. Thanks Halal Resto
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0032succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-27 at 13:55. Thanks Halal Resto
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0026succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-25 at 08:50. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0020succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-24 at 10:10. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0019succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-24 at 07:30. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0028succesfully accepted by Dice. Your order will be delivered by 2016-10-25 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0027succesfully accepted by Dice. Your order will be delivered by 2016-10-25 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0017succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-21 at 16:00. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0016succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-20 at 14:41. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0015succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-20 at 14:15. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0014succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-20 at 14:05. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0013succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-19 at 16:55. Thanks Halal Resto
+Response---->The 'To' number +33445454554554 is not a valid phone number.
+
+Message---->Dear Raguvarana,pick up COD order #ORD0032 from Ram Raghav,,,,,. Delivery due on 2016-10-27 at . Thanks Halal Resto
+Response---->The 'To' number +339876543210 is not a valid phone number.
+
+Message---->Dear Raguvarana,pick up COD order #ORD0026 from Akshita Paul,,,,,. Delivery due on 2016-10-25 at . Thanks Halal Resto
+Response---->The 'To' number +339876543210 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0034 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0034 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-10-27 at 16:50. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0028 from anand anand,,,,,. Delivery due on 2016-10-25 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0027 from Akshita Paul,,,,,. Delivery due on 2016-10-25 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0032succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-27 at 13:55. Thanks Halal Resto
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password PIBZtoQ to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0035 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0036 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0037 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0038 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0038 from Akshita Paul,Paris, Salles, France. Delivery due on 2016-11-01 at 11:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0039 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0040 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0041 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0042 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Mark,pick up PAID order #ORD0040 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Dear Mark,pick up PAID order #ORD0040 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Dear Mark,pick up PAID order #ORD0036 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0043 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0043 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-01 at 14:05. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0044 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0044 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-01 at 13:10. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0035 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password 7jt0XLc to login to your account and update it ASAP. Thanks '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0045 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0045 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-01 at 13:44. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0042succesfully accepted by Dice. Your order will be delivered by 2016-11-01 at 12:10. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0039succesfully accepted by Dice. Your order will be delivered by 2016-11-01 at 12:00. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0041succesfully accepted by Dice. Your order will be delivered by 2016-11-01 at 12:05. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Mark,pick up PAID order #ORD0041 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0040succesfully accepted by Dice. Your order will be delivered by 2016-11-01 at 12:00. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0028succesfully accepted by Dice. Your order will be delivered by 2016-10-25 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0028succesfully accepted by Dice. Your order will be delivered by 2016-10-25 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0028succesfully accepted by Dice. Your order will be delivered by 2016-10-25 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thank you for registering with Halal Resto.Click on below link to activate your account.http://halal-resto.fr/users/activeLink/34. Thanks Halal Resto
+Response---->The 'To' number +339894306077 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0046 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +339894306077 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0046 from san j,Paris, Salles, France. Delivery due on 2016-11-02 at 02:10. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0046succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-11-02 at 02:10. Thanks Halal Resto
+Response---->The 'To' number +339894306077 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0047 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +339894306077 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0047succesfully accepted by Dice. Your order will be delivered by 2016-11-01 at 15:05. Thanks Halal Resto
+Response---->The 'To' number +339894306077 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0047 from san j,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0048 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->cvb booking a table. Booking id #Book00018
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00018.  Regards Halal Resto.
+Response---->The 'To' number +333445345 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0049 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0049 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-01 at 15:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Your booked table has been approved. booking id #Book00017.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0019succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-10-24 at 07:30. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0049succesfully accepted by Demo Restaurant. Your order will be delivered by 2016-11-01 at 15:25. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0050 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->R booking a table. Booking id #Book00019
+Response---->The 'To' number +337894561230 is not a valid phone number.
+
+Message---->Your table booked successfully. booking id #Book00019.  Regards Halal Resto.
+Response---->The 'To' number +339876543210 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0050succesfully accepted by Dice. Your order will be delivered by 2016-11-03 at 11:25. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Manikandan M N,</p>
+                                      <p>La commande #ORD0050 a été annulée, nous procédons à votre  remboursement pour un montant de € 689.25</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0048 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0048 from Manikandan M N,,,,,. Delivery due on 2016-11-01 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0051 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0051 from Manikandan M N,,,,,. Delivery due on 2016-11-03 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0052 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0052 from Manikandan M N,,,,,. Delivery due on 2016-11-03 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0053 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0052succesfully accepted by Dice. Your order will be delivered by 2016-11-03 at 11:25. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Mark,pick up COD order #ORD0052 from Manikandan M N,,,,,. Delivery due on 2016-11-03 at . Thanks Halal Resto
+Response---->The 'To' number +338520852085 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0053succesfully accepted by Dice. Your order will be delivered by 2016-11-03 at 11:25. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0054 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0054 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-04 at 08:38. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0055 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0055 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-04 at 08:40. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0056 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0056 from Manikandan M N. Collection due on 2016-11-04 at 08:41. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0053succesfully accepted by Dice. Your order will be delivered by 2016-11-03 at 11:25. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0053succesfully accepted by Dice. Your order will be delivered by 2016-11-03 at 11:25. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0053succesfully accepted by Dice. Your order will be delivered by 2016-11-03 at 11:25. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0057 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0058 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0058succesfully accepted by Dice. Your order will be delivered by 2016-11-07 at 00:40. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0058succesfully accepted by Dice. Your order will be delivered by 2016-11-07 at 00:40. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0058succesfully accepted by Dice. Your order will be delivered by 2016-11-07 at 00:40. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0059 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0059 from HALAL RESTO,Paris, Salles, France. Delivery due on 2016-11-14 at 06:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0060 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0061 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0061 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-07 at 14:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0058succesfully accepted by Dice. Your order will be delivered by 2016-11-07 at 00:40. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0058succesfully accepted by Dice. Your order will be delivered by 2016-11-07 at 00:40. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0062 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0062succesfully accepted by Dice. Your order will be delivered by 2016-11-08 at 09:20. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0062succesfully accepted by Dice. Your order will be delivered by 2016-11-08 at 09:20. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Congratulations! Your order #ORD0062succesfully accepted by Dice. Your order will be delivered by 2016-11-08 at 09:20. Thanks Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Thanks for using Halal Resto service. Your order #ORD0063 has been placed . Track your order at http://halal-resto.fr.  Regards Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Dice. Votre commande sera livrée le 08/11/2016 à 12:50. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0064 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0064 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-08 at 13:00. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 08/11/2016 à 13:00. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0065 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Manikandan M N,</p>
+                                      <p>La commande #ORD0055 a été annulée, nous procédons à votre  remboursement pour un montant de € 186.00</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->This order #ORD0055 has been cancelled and Refund amount € 186.00 Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->dffd booking a table. Booking id #Book00020
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00020.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->dasf booking a table. Booking id #Book00021
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00021.  Regards Halal Resto.
+Response---->The 'To' number 334645 is not a valid phone number.
+
+Message---->Votre réservation a été acceptée. booking id #Book00021.  Regards Halal Resto.
+Response---->The 'To' number 334645 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.http://halal-resto.fr/users/activeLink/35. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0066 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0066 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-08 at 14:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 08/11/2016 à 14:55. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 11/04/2016 à 08:41. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0067 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0067 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-08 at 15:30. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0068 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0068 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-09 at 10:40. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0069 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0069 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-09 at 11:10. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0070 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0071 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0071 from HALAL RESTO,Paris, Salles, France. Delivery due on 2016-11-14 at 07:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0072 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0072 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-14 at 14:05. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe MjSId8C pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0073 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0073 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-16 at 07:30. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0074 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a PAID order #ORD0074 from Steph Delices,. Delivery due on 2016-11-18 at 18:40. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Votre commande a été acceptée avec succèss par Miraj. Votre commande sera livrée le 11/18/2016 à 18:40. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Miraj. Votre commande sera livrée le 11/18/2016 à 18:40. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->delices booking a table. Booking id #Book00022
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00022.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->delices booking a table. Booking id #Book00023
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00023.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été acceptée. booking id #Book00022.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été acceptée. booking id #Book00023.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été annuléeed. reason : Test from roamsoft... booking id #Book00020.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->DELICES booking a table. Booking id #Book00024
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00024.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été annuléeed. reason : Plus de place. booking id #Book00024.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->DELICES booking a table. Booking id #Book00025
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00025.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été annuléeed. reason : Pas de places. booking id #Book00025.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Manikandan M N,</p>
+                                      <p>La commande #ORD0072 a été annulée, nous procédons à votre  remboursement pour un montant de € 163.00</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->This order #ORD0072 has been cancelled and Refund amount € 163.00 Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Manikandan M N,</p>
+                                      <p>La commande #ORD0068 a été annulée, nous procédons à votre  remboursement pour un montant de € 163.00</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->This order #ORD0068 has been cancelled and Refund amount € 163.00 Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Komal booking a table. Booking id #Book00026
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00026.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Votre réservation a été acceptée. booking id #Book00026.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Votre réservation a été annuléeed. reason : fghfgh. booking id #Book00018.  Regards Halal Resto.
+Response---->The 'To' number +333445345 is not a valid phone number.
+
+Message---->Votre réservation a été acceptée. booking id #Book00019.  Regards Halal Resto.
+Response---->The 'To' number +339876543210 is not a valid phone number.
+
+Message---->Votre réservation a été annuléeed. reason : assadf. booking id #Book00015.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0075 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0075 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-22 at 08:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0076 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0076 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-22 at 12:10. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                              <table class="row note">
+                                <tbody> <tr> <td class="wrapper last">
+                                          <p>Cher Manikandan M N,</p>
+                                          <p>La commande #ORD0044 a été annulée</p> </td> </tr>
+                                    </tbody>
+                              </table> 
+                          </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->La commande #ORD0044 a été annulée Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                              <table class="row note">
+                                <tbody> <tr> <td class="wrapper last">
+                                          <p>Cher Manikandan M N,</p>
+                                          <p>La commande #ORD0034 a été annulée</p> </td> </tr>
+                                    </tbody>
+                              </table> 
+                          </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->La commande #ORD0034 a été annulée Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0077 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a PAID order #ORD0077 from HALAL RESTO,23 Rue du Temple, Paris, France. Delivery due on 2016-11-23 at 15:00. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Votre commande a été acceptée avec succèss par Miraj. Votre commande sera livrée le 11/23/2016 à 15:00. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 11/22/2016 à 12:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->DELICES booking a table. Booking id #Book00027
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00027.  Regards Halal Resto.
+Response---->The 'To' number +336353323472347 is not a valid phone number.
+
+Message---->DELICES booking a table. Booking id #Book00028
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00028.  Regards Halal Resto.
+Response---->The 'To' number +336353323472347 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0078 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0078 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 07:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0079 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0079 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 08:50. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0080 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0080 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 08:50. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0081 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0081 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 08:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0082 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0082 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 08:55. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0083 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0083 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 09:00. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0084 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0084 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 10:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0085 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0085 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 10:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0086 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0086 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 10:20. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.http://halal-resto.fr/users/activeLink/37. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0087 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0087 from komal c,Paris, Salles, France. Delivery due on 2016-11-28 at 10:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0088 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0088 from komal c,Paris, Salles, France. Delivery due on 2016-11-28 at 10:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0089 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0089 from komal c,Paris, Salles, France. Delivery due on 2016-11-28 at 10:25. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0090 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0090 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 11:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0091 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0091 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 11:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0092 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a PAID order #ORD0092 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-11-28 at 11:20. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->DELICES booking a table. Booking id #Book00029
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00029.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->STEPHANE DELICES booking a table. Booking id #Book00030
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00030.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->STEPHANE DELICES booking a table. Booking id #Book00031
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00031.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été acceptée. booking id #Book00031.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passeNo0FQ0b pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0093 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a PAID order #ORD0093 from HALAL RESTO,23 Rue du Temple, Paris, France. Delivery due on 2016-12-13 at 12:10. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0094 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a PAID order #ORD0094 from Steph Delices. Collection due on 2016-12-14 at 18:40. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0095 est passée . Vous pouvez suivre votre commande à http://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0095 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-12-21 at 09:05. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0096 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Dear Demo Restaurant you've received a COD order #ORD0096 from Manikandan M N,Paris, Salles, France. Delivery due on 2016-12-22 at 09:15. Thanks Halal Resto
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/39. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333425213695 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/41. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->qwerty booking a table. Booking id #Book00032
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00032.  Regards Halal Resto.
+Response---->The 'To' number +3371234567 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0098 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD0099 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00100 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00101 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00102 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00103 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00104 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00105 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00106 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00107 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00108 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00109 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00110 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->komal booking a table. Booking id #Book00033
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00033.  Regards Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00111 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00112 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00113 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00113 from Karim Riko,Rue Liberte, Beauvoisin, France. Delivery due on 2017-01-31 at 21:10. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->MARIKO booking a table. Booking id #Book00034
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00034.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->MARIKO booking a table. Booking id #Book00035
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00035.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->mariko booking a table. Booking id #Book00036
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00036.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 01/31/2017 à 14:55. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                              <table class="row note">
+                                <tbody> <tr> <td class="wrapper last">
+                                          <p>Cher Manikandan M N,</p>
+                                          <p>La commande #ORD00111 a été annulée</p> </td> </tr>
+                                    </tbody>
+                              </table> 
+                          </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                              <table class="row note">
+                                <tbody> <tr> <td class="wrapper last">
+                                          <p>Cher Manikandan M N,</p>
+                                          <p>La commande #ORD00109 a été annulée</p> </td> </tr>
+                                    </tbody>
+                              </table> 
+                          </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 01/28/2017 à 14:15. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 01/27/2017 à 16:38. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00114 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00115 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00116 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00117 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/43. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/44. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00118 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00119 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00120 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00122 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Demo Restaurant. Votre commande sera livrée le 02/13/2017 à 11:25. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00123 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00124 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->mani booking a table. Booking id #Book00037
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00037.  Regards Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe QABircn pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +33445454554554 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe YAekFeT pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +33445454554554 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00125 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00126 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->AS booking a table. Booking id #Book00038
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00038.  Regards Halal Resto.
+Response---->The 'To' number +3349849849849841 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00128 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00131 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00133 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00134 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00135 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00136 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00137 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00138 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00139 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00140 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00141 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00142 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00143 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00144 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->mani booking a table. Booking id #Book00039
+Response---->The 'To' number +337845788956 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00039.  Regards Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00145 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Dear Indique Restaurant you've received a PAID order #ORD00145 from monish kumar,112 Boulevard Haussmann, Paris, France. Delivery due on 2017-02-16 at 16:55. Thanks Halal Resto
+Response---->The 'To' number +337894561235 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00146 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00149 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00150 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00151 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00152 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00153 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00154 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00157 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe keNZa9y pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00159 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00160 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00161 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00162 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00163 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00164 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00165 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00166 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00167 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00168 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00169 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +339092642334 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00170 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00171 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00172 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00172 from HALAL RESTO,23 Rue du Temple, Paris, France. Delivery due on 2017-02-17 at 23:00. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00173 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/48. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00174 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00175 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00176 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00176 from HALAL RESTO,23 Rue du Temple, Paris, France. Delivery due on 2017-02-21 at 12:15. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00177 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00177 from Steph Delices,. Delivery due on 2017-02-22 at 23:00. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00178 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00179 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00180 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00181 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00181 from HALAL RESTO,23 Rue du Temple, Paris, France. Delivery due on 2017-02-24 at 12:15. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00182 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00183 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Manikandan M N,</p>
+                                      <p>La commande #ORD00183 a été annulée, nous procédons à votre  remboursement pour un montant de € 186.00</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00184 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00185 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message----><table class="container content" align="center"><tbody><tr> <td>
+                          <table class="row note">
+                            <tbody> <tr> <td class="wrapper last">
+                                      <p>Cher Manikandan M N,</p>
+                                      <p>La commande #ORD00185 a été annulée, nous procédons à votre  remboursement pour un montant de € 163.00</p> </td> </tr>
+                                </tbody>
+                          </table> 
+                      </table> Regards Halal Resto
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00186 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00187 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00188 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00189 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00190 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00191 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00192 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00192 from HALAL RESTO,23 Rue du Temple, Paris, France. Delivery due on 2017-03-02 at 13:40. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00193 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Miraj you've received a COD order #ORD00193 from Steph Delices,. Delivery due on 2017-03-03 at 12:15. Thanks Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe CHuYHaK pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00194 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00195 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +3399941963333 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe aDpzabi pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Halal Resto  booking a table. Booking id #Book00040
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00040.  Regards Halal Resto.
+Response---->The 'To' number +3306060606 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/53. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00196 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe iXzC9D7 pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe stJNydJ pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe TKEdGwM pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00197 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe ZmP3s9i pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe e5hbj2o pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe jIQkIK7 pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The 'To' number +338754497858 is not a valid phone number.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe RHDeK9H pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Nous avons reçu une demande de changement de votre mot de passe. Utilisez ce mot de passe FfQ1MmG pour vous connecter à votre compte et  n’oubliez pas changer votre mot de passe provisoire dès que possible. Merci l’équipe d’ '.Array['Sitesetting']['site_name'].'
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/61. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33923244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/63. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3367896 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/64. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00198 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/65. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/71. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/72. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/73. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/74. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/75. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/76. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/77. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33+923477606035 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/78. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33+923477606035 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/79. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number 33123 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/80. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number 33123 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/82. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33123123 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/83. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/85. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333238866003 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/86. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +338745397593475 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/87. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444088 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/88. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/89. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/90. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number 337373 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/91. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +335 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/92. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +335 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/93. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +335 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/94. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3365466 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00199 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00200 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/01/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00201 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->DELICES booking a table. Booking id #Book00041
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00041.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00202 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a COD order #ORD00202 from Adnan Yusuf. Collection due on 2017-04-03 at 10:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00203 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00204 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00204 from Nabeel Zafar,test. Delivery due on 2017-04-03 at 10:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00205 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00205 from Nabeel Zafar,test. Delivery due on 2017-04-03 at 10:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00206 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00206 from Nabeel Zafar,test. Delivery due on 2017-04-03 at 10:47. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00207 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00208 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00209 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre réservation a été acceptée. booking id #Book00041.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/95. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00210 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/96. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00211 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00212 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/03/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/97. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333238866001 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00213 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00214 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00214 from Nabeel Nabeel Zafar,dha address. Delivery due on 2017-04-07 at 11:00. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00215 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00215 from Nabeel Nabeel Zafar,dha address. Delivery due on 2017-04-07 at 11:00. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00216 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00216 from Nabeel Nabeel Zafar,dha address. Delivery due on 2017-04-07 at 11:05. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00217 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/07/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/102. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/103. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00218 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00218 from Nabeel Nabeel Zafar,dha address. Delivery due on 2017-04-11 at 10:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00230 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00267 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Chikinow you've received a PAID order #ORD00267 from Nabeel Zafar,test. Delivery due on 2017-04-13 at 10:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/105. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333238866001 is not a valid phone number.
+
+Message---->fzggdkhljxgzbcv\x booking a table. Booking id #Book00042
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00042.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été acceptée. booking id #Book00047.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été acceptée. booking id #Book00048.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->azam2 booking a table. Booking id #Book00049
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00049.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->azam2 booking a table. Booking id #Book00053
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00053.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->USame booking a table. Booking id #Book00054
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00054.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00268 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00274 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear testing98 you've received a PAID order #ORD00274 from Nabeel Zafar,test. Delivery due on 2017-04-19 at 10:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00295 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00296 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00296 from Adnan Yusuf. Collection due on 2017-04-24 at 00:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00297 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00297 from Adnan Yusuf. Collection due on 2017-04-24 at 00:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00300 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00300 from Adnan Yusuf. Collection due on 2017-04-24 at 00:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00301 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00305 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/107. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00333 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a COD order #ORD00333 from Adnan Yusuf. Collection due on 2017-04-27 at 03:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00334 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00334 from Adnan Yusuf. Collection due on 2017-04-27 at 00:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00335 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00336 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00337 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00338 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00339 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00340 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a COD order #ORD00340 from Adnan Yusuf. Collection due on 2017-04-27 at 00:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 14:30. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00341 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/07/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->DELICES booking a table. Booking id #Book00055
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00055.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Votre réservation a été acceptée. booking id #Book00055.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00345 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00346 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00348 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00349 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/25/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/24/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/24/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00352 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00353 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/26/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/26/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00355 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00355 from Nabeel Zafar. Collection due on 2017-04-27 at 10:46. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00356 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/24/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/27/2017 à 13:15. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 18:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 14:30. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 14:30. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/24/2017 à 14:20. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/11/2017 à 19:15. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00357 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 08/08/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 10:46. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 10:46. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 00:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 00:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 03:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/24/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 10:46. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 08/08/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 08/08/2017 à 11:45. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/27/2017 à 10:46. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Nandos. Votre commande sera livrée le 04/21/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00358 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a COD order #ORD00358 from Adnan Yusuf. Collection due on 2017-04-27 at 15:35. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00360 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/27/2017 à . Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/27/2017 à 19:55. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/27/2017 à 13:55. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00361 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/27/2017 à 20:10. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00362 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 04/27/2017 à 20:35. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00363 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00363 from Adnan Yusuf,Parking Area, DHA, Lahore. Delivery due on 2017-05-04 at 00:45. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00367 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +333477606025 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00380 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00380 from Adnan Yusuf,Parking Area, DHA, Lahore. Delivery due on 2017-05-04 at 13:10. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00381 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Dear Nandos you've received a PAID order #ORD00381 from Adnan Yusuf,Parking Area, DHA, Lahore. Delivery due on 2017-05-04 at 08:30. Thanks Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00391 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 05/08/2017 à 19:40. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password 47yegLc to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Yuu booking a table. Booking id #Book00056
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00056.  Regards Halal Resto.
+Response---->The 'To' number 33258 is not a valid phone number.
+
+Message---->Yuu booking a table. Booking id #Book00057
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00057.  Regards Halal Resto.
+Response---->The 'To' number 33258 is not a valid phone number.
+
+Message---->Yuu booking a table. Booking id #Book00058
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00058.  Regards Halal Resto.
+Response---->The 'To' number 33258 is not a valid phone number.
+
+Message---->Tgj booking a table. Booking id #Book00059
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00059.  Regards Halal Resto.
+Response---->The 'To' number 33552 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password S8t0oqd to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password BGcy4ZJ to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password NzyMvDT to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password zp1emva to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password I18OxBu to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->We've received a request to change your password. Use this password SgGHYN5 to login to your account and update it ASAP. Thanks Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Fg booking a table. Booking id #Book00060
+Response---->The 'To' number +333242222240 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00060.  Regards Halal Resto.
+Response---->The 'To' number 33852 is not a valid phone number.
+
+Message---->Brain booking a table. Booking id #Book00061
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00061.  Regards Halal Resto.
+Response---->The From phone number +336353323 is not a valid, SMS-capable inbound phone number or short code for your account.
+
+Message---->Brain booking a table. Booking id #Book00062
+Response---->The 'To' number +339994196333 is not a valid phone number.
+
+Message---->Votre reservation a été pris en compte. booking id #Book00062.  Regards Halal Resto.
+Response---->The 'To' number +3358855 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00395 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Votre commande a été acceptée avec succèss par Tombouctou. Votre commande sera livrée le 05/15/2017 à 13:05. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00396 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00397 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/119. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/120. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/121. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3323244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/122. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333244444202 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/123. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/124. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +33342523523523 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/125. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +3307625484 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/126. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/127. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +334234234234 is not a valid phone number.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00398 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/128. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +333424234 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/129. Merci l’équipe d’ Halal Resto
+Response---->The 'To' number +334353453454 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/130. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.
+
+Message---->Merci d'avoir utilisé les services d’Halal Resto. Votre commande #ORD00399 est passée . Vous pouvez suivre votre commande à https://halal-resto.fr.  Merci l’équipe d’ Halal Resto.
+Response---->The 'To' number +33 is not a valid phone number.
+
+Message---->Merci de vous être inscrit sur Halal Resto.Cliquez sur le lien ci-dessous pour activer votre compte.https://halal-resto.fr/users/activeLink/131. Merci l’équipe d’ Halal Resto
+Response---->The message body exceeds the 160 character limit.

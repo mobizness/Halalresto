@@ -1,0 +1,12 @@
+<?php
+
+App::uses('Model', 'Model');
+
+class Storeoffer extends Model {    
+    public $name   = "Storeoffer";   
+    public $belongsTo = array(
+			'Store' => array ('className' => 'Store',
+							'foreignKey' => 'store_id',
+							 'dependent' => true)); 
+   
+}
